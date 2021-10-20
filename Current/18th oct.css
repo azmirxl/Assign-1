@@ -1,0 +1,10 @@
+body {
+
+}
+.heading1 {
+ float: right;
+ display: flex;
+ align-items: center;
+}
+
+

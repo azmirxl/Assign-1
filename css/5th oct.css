@@ -1,0 +1,14 @@
+body {
+    background-color: blanchedalmond;
+}
+p {
+    color: rgb(250, 244, 244);
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(50, 124, 241);
+    font-style: inherit;
+    border-radius: 4px 7px 7px;
+    box-shadow: 4px 8px 8px rgb(82, 84, 95);
+    padding: 10px;
+    margin: 20px;
+    
+}

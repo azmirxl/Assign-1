@@ -1,0 +1,9 @@
+<html>
+<head>
+
+</head>
+<body>
+Welcome to Men Stuff. Be trendy and shop from us. 
+<img src="image/Piato.png"/>
+</body>
+</html> 

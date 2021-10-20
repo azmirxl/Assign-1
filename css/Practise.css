@@ -1,0 +1,25 @@
+body {
+
+    background-color: rgba(252, 246, 246, 0.397);
+}
+
+p {
+    font-size: 20px;
+}
+.section1{
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(243, 83, 115);
+    margin-bottom: 15px;
+    padding: 1.5px;
+    border-radius: 20px;
+    border: .5px solid black
+    
+
+}
+.section2 {
+    background-color: darkgrey;
+    box-shadow: 3px 5px 5px grey;
+
+    
+}
