@@ -1,0 +1,12 @@
+body{
+    background-color: rgba(241, 213, 50, 0.781);
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div-right {
+    margin-left: 20px;
+    margin-bottom: 40px;
+}
